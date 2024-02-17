@@ -8,7 +8,7 @@ packages = [{include = "server"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-fastapi = "^0.92.0"
+fastapi = "^0.109.1"
 uvicorn = "^0.20.0"
 openai = "^0.27.5"
 python-dotenv = "^0.21.1"
@@ -19,7 +19,7 @@ numpy = "^1.24.2"
 docx2txt = "^0.8"
 PyPDF2 = "^3.0.1"
 python-pptx = "^0.6.21"
-python-multipart = "^0.0.6"
+python-multipart = "^0.0.7"
 arrow = "^1.2.3"
 chromadb = "^0.3.25"
 pinecone-client = "^2.1.0"
